@@ -1,0 +1,89 @@
+@@ -0,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Design 01 Analysis using html</title>
+        <style>
+            .nav{
+                padding: 5px;
+                border-bottom: 2px solid black;
+                background:skyblue
+            }
+                font{
+                    
+                    border:8px solid rgb(7, 7, 7);
+                   
+                    background-color:rgb(252, 252, 27);
+                    background: url("IMG_1210.JPG");
+                    
+                
+                    }
+
+        
+               
+            
+
+            /* font{
+                border: 1px solid red;
+            } */
+            #inp{
+                background-origin: padding-box;
+                margin: auto;
+                border: 2px solid gold;
+                
+            }
+        </style>
+
+    </head>
+    <body background-img="""download (1).jpg" width=2000px height=2000px  link="#000" alink="#017bf5" vlink="#000">
+        <h3 align="center">
+            <div class="nav">
+
+                <font face="Lato" size="30">
+                    LOGO
+                </font>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    
+                <input type="text" placeholder="Search Bar" id="inp" size="20" width="20 px" height="20px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <font face="cinzel" size=5>
+                    <a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </font>
+            </div>
+            <br>
+            <br>
+            <br> <br> <br> <br>
+            <br>
+            <br> <br> <br> <br>
+            <br>
+            <h1 align="center">
+                <font face="lato" color=#017be6 size=25>
+                    <strong>Beautyful and simple web design </strong>
+                </font>
+            </h1>
+            <h3 align="center">
+                <font face="cinzel" color=#651078 size=10>
+                    <strong>Using only html</strong>
+                </font>
+            </h3>
+            <br><br><br><br><br>
+            <h3 align="center" >
+                <a href="#"><font face=lato color=#563412 size=20 >Getting started</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#"><font face=lato color=#563412 size=20 >Feel free to talk</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#"><font face=lato color=#563412 size=20 >Help Center</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            </h3>
+        </h3>
+
+
+
+    </body>
+</html> 
