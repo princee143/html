@@ -1,0 +1,35 @@
+@@ -0,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Design 01 Analysis using html</title>
+        <style>
+            #inp{
+                background-origin: padding-box;
+                margin: auto;
+                border: 2px solid gold;
+            }
+        </style>
+
+    </head>
+    <body background = "pngtree-beautiful-dinner-background-advertising-psd-material-image_264753.jpg">
+        <h3 align="center">
+            <font face="Lato" size="30">
+                LOGO
+            </font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+            <input type="text" placeholder="Search Bar" id="inp" size="20" width="20 px" height="20px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <font face="cinzel" size=5>
+                <a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </font>
+            <br
